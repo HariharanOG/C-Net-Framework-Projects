@@ -1,0 +1,11 @@
+C:\Users\Josh\OneDrive - University of South Florida\Documents\C# Projects\Lab 3-1\Lab 3-1\bin\Debug\Lab 3-1.exe.config
+C:\Users\Josh\OneDrive - University of South Florida\Documents\C# Projects\Lab 3-1\Lab 3-1\bin\Debug\Lab 3-1.exe
+C:\Users\Josh\OneDrive - University of South Florida\Documents\C# Projects\Lab 3-1\Lab 3-1\bin\Debug\Lab 3-1.pdb
+C:\Users\Josh\OneDrive - University of South Florida\Documents\C# Projects\Lab 3-1\Lab 3-1\obj\Debug\Lab 3-1.csproj.AssemblyReference.cache
+C:\Users\Josh\OneDrive - University of South Florida\Documents\C# Projects\Lab 3-1\Lab 3-1\obj\Debug\Lab 3-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Josh\OneDrive - University of South Florida\Documents\C# Projects\Lab 3-1\Lab 3-1\obj\Debug\Lab_3_1.Form1.resources
+C:\Users\Josh\OneDrive - University of South Florida\Documents\C# Projects\Lab 3-1\Lab 3-1\obj\Debug\Lab_3_1.Properties.Resources.resources
+C:\Users\Josh\OneDrive - University of South Florida\Documents\C# Projects\Lab 3-1\Lab 3-1\obj\Debug\Lab 3-1.csproj.GenerateResource.cache
+C:\Users\Josh\OneDrive - University of South Florida\Documents\C# Projects\Lab 3-1\Lab 3-1\obj\Debug\Lab 3-1.csproj.CoreCompileInputs.cache
+C:\Users\Josh\OneDrive - University of South Florida\Documents\C# Projects\Lab 3-1\Lab 3-1\obj\Debug\Lab 3-1.exe
+C:\Users\Josh\OneDrive - University of South Florida\Documents\C# Projects\Lab 3-1\Lab 3-1\obj\Debug\Lab 3-1.pdb
